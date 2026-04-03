@@ -26,3 +26,9 @@ This is my first DevOps project where I built and deployed a website using CI/CD
 - SSH setup
 - CI/CD automation
 - Deployment using GitHub Pages
+- Website deployment using GitHub Pages
+
+## 🚀 Future Improvements
+- Add Docker support
+- Deploy on AWS EC2
+- Add Jenkins pipeline
